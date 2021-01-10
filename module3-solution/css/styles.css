@@ -6,6 +6,17 @@
 	width: 
 }
 
+#navbarText {
+	background-color: #d3feca;
+}
+
+.nav-element {
+	border: 0.25px solid #b7ffa9;
+	text-align: center;
+}
+/** HEADER END **/
+
+/**S MAIN BODY **/
 h2 {
 	text-align: center;
 	margin: 20px 0 25px;
@@ -22,16 +33,4 @@ h3 {
 	overflow: hidden;
 	padding: 10px;
 }
-
-#navbarText {
-	background-color: #d3feca;
-}
-
-.nav-element {
-	border: 0.25px solid #b3fb78;
-	text-align: center;
-}
-
-.nav-list {
-	border: 0.5px solid #b3fb78;
-}
+/** MAIN BODY END **/
